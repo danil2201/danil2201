@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danil2201
-- 👀 I’m interested in windows 10 mobile  ios and and android
+- 👀 I’m interested in windows 10 mobile
 
 <!---
 danil2201/danil2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
